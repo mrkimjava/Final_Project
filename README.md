@@ -8,8 +8,7 @@
 
 ## 주요화면
 - 메인 페이지
-![메인페이지](https://user-images.githubusercontent.com/91609858/150546898-eb49936f-47e8-4d68-ab6a-408fb1c6aaf1.jpg)
-![메인페이지2](https://user-images.githubusercontent.com/91609858/150546944-d3d54107-75a3-4b13-be03-a72aa4f38dd7.jpg) <br><br>
+![메인페이지](https://user-images.githubusercontent.com/91609858/150546898-eb49936f-47e8-4d68-ab6a-408fb1c6aaf1.jpg) <br><br>
 
 - 포인트 페이지
 ![포인트페이지](https://user-images.githubusercontent.com/91609858/150547082-9ea85196-f98a-4485-be87-74c9cc48a062.jpg) <br><br>
