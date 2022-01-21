@@ -26,6 +26,11 @@
 ![중고4](https://user-images.githubusercontent.com/91609858/150547311-2e99a3a6-0bbb-45da-9132-ff64b863b287.jpg)
 ![중고5](https://user-images.githubusercontent.com/91609858/150547326-b392ed3f-134c-4898-a7a2-df23309b1704.jpg) <br><br>
 
+- 중고거래 - 채팅기능
+![중고6](https://user-images.githubusercontent.com/91609858/150548782-f0daaeec-c302-4c7e-99bc-606d7ecb1dc3.jpg)
+
+<br><br>
+
 ## 팀 구성원 및 담당 역할
 - 김우연 : 화면설계 / 기능구현
 - 김서경 : DB설계 / 화면설계 / 기능구현
