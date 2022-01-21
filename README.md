@@ -25,10 +25,7 @@
 ![중고2](https://user-images.githubusercontent.com/91609858/150547258-d7ff1f13-87ef-4033-bbce-3697c871b7b1.jpg)
 ![중고3](https://user-images.githubusercontent.com/91609858/150547284-2b4ae50c-59e5-408c-8acb-ab07e1473e1c.jpg)
 ![중고4](https://user-images.githubusercontent.com/91609858/150547311-2e99a3a6-0bbb-45da-9132-ff64b863b287.jpg)
-![중고5](https://user-images.githubusercontent.com/91609858/150547326-b392ed3f-134c-4898-a7a2-df23309b1704.jpg)
-
-<br>
-
+![중고5](https://user-images.githubusercontent.com/91609858/150547326-b392ed3f-134c-4898-a7a2-df23309b1704.jpg) <br><br>
 
 ## 팀 구성원 및 담당 역할
 - 김우연 : 화면설계 / 기능구현
